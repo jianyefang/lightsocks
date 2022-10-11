@@ -3,11 +3,11 @@ package cmd
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/mitchellh/go-homedir"
+	
 	"io/ioutil"
 	"log"
 	"os"
-	"path"
+	
 )
 
 var (
