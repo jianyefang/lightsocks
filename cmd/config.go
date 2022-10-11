@@ -3,11 +3,9 @@ package cmd
 import (
 	"encoding/json"
 	"fmt"
-	
 	"io/ioutil"
 	"log"
 	"os"
-	
 )
 
 var (
